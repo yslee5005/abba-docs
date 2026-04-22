@@ -1,0 +1,21 @@
+title: Abba — Prayer & Quiet Time
+description: AI-powered Christian prayer companion for seniors and everyone who wants a deeper prayer life.
+theme: minima
+plugins:
+  - jekyll-seo-tag
+baseurl: /abba-docs
+url: https://yslee5005.github.io
+
+# Language & locale
+lang: en
+
+# Footer
+author:
+  name: Abba Team
+  email: rrallvv@gmail.com
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
